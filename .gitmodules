@@ -1,0 +1,4 @@
+[submodule "pudle-vue"]
+	path = pudle-vue
+	url = https://github.com/myamar94/pudle-vue.git
+	branch = master
